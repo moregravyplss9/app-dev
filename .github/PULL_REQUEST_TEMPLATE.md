@@ -1,0 +1,11 @@
+## Summary
+This pull request updates the `README.md` file with information about my favorite series, **Stranger Things**.
+
+## Changes
+- Added a short introduction and a quick facts table for all 5 seasons
+- Added a summary for each season
+- Added my favorite characters (Eleven, Dustin, and Steve) with reasons
+- Used different Markdown elements such as headings, lists, a table, a blockquote, a task list, and a code block
+
+## Notes
+Please review the formatting and let me know if anything needs to be changed.
